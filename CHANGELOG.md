@@ -1,18 +1,38 @@
-\# Changelog
+﻿# Changelog
 
 
 
-\## v1.0.0
+## v1.0.1
 
 
 
-\### Features
+### Bug Fixes
 
-\- ADD: Addition
+- Removed ADD (addition) function.
 
-\- SUB: Subtraction
 
-\- MUL: Multiplication
 
-\- DIV: Division
+### Available Functions
+
+- SUB: Subtraction
+
+- MUL: Multiplication
+
+- DIV: Division
+
+
+
+## v1.0.0
+
+
+
+### Features
+
+- ADD: Addition
+
+- SUB: Subtraction
+
+- MUL: Multiplication
+
+- DIV: Division
 
